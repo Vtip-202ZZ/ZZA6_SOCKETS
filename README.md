@@ -1,5 +1,5 @@
 # ZZA6_JAVA_SOCKETS
-Пример работы с сетью на Java в NetBeans
+Пример работы с сетью на Java в NetBeans  
 ![srcreenshot](png.PNG)
   
 ![srcreenshot](screenshot1.png)  
